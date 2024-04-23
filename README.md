@@ -1,4 +1,4 @@
-### Olá! me chamo Sena  👋
+### Olá! Eu me chamo Sena  👋
 
 ![Eusousena GitHub stats](https://github-readme-stats.vercel.app/api?username=Eusousena&show_icons=true&theme=radical)
 
